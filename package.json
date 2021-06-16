@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-ext-base-dsort2ins",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simultaneously sort two double-precision floating-point strided arrays based on the sort order of the first array using insertion sort.",
   "license": "Apache-2.0",
   "author": {
