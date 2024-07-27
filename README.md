@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dsort2ins from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsort2ins@deno/mod.js';
+import dsort2ins from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsort2ins@v0.2.2-deno/mod.js';
 ```
 
 #### dsort2ins( N, order, x, strideX, y, strideY )
@@ -188,7 +188,7 @@ console.log( y );
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
-import dsort2ins from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsort2ins@deno/mod.js';
+import dsort2ins from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsort2ins@v0.2.2-deno/mod.js';
 
 var rand;
 var sign;
